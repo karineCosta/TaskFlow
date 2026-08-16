@@ -1,0 +1,16 @@
+TaskFlow
+
+O TaskFlow é um aplicativo Android desenvolvido para auxiliar
+colaboradores no gerenciamento de tarefas diárias, lembretes
+e eventos importantes da empresa.
+
+Principais funcionalidades:
+
+- Gerenciamento de tarefas
+- Calendário de eventos
+- Lembretes
+- Avisos importantes
+- Armazenamento local de informações
+- Interface simples e responsiva
+
+Projeto desenvolvido para fins acadêmicos.
